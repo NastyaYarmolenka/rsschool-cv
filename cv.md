@@ -23,7 +23,7 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 ## __Experience__
 
 ## __Education__
-- __University:__Belarusian State University of Transport, engineer-economist, logistics
+- __University:__ Belarusian State University of Transport, engineer-economist, logistics
 
 ## __English__
 __A2__
