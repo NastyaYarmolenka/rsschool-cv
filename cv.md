@@ -18,3 +18,20 @@ I possess strong interpersonal skills, excel at collaborating within a team, and
 * Photoshop
 ## Code Example
 ******
+```
+function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert( result );
+## Experience
+```
+******
+
+## Education
+******
+* University: Belarusian State University of Transport, Engineer-economist, logistician
+## English
+******
+A2
