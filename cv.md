@@ -25,10 +25,9 @@ function sum(a, b) {
 
 let result = sum(1, 2);
 alert( result );
-## Experience
 ```
+## Experience
 ******
-
 ## Education
 ******
 * University: Belarusian State University of Transport, Engineer-economist, logistician
