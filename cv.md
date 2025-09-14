@@ -18,6 +18,7 @@ I possess strong interpersonal skills, excel at collaborating within a team, and
 * Photoshop
 ## Code Example
 ******
+
 ```
 function sum(a, b) {
   return a + b;
@@ -26,6 +27,7 @@ function sum(a, b) {
 let result = sum(1, 2);
 alert( result );
 ```
+
 ## Experience
 ******
 ## Education
