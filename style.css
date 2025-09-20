@@ -1,0 +1,21 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+    font-weight: 500;
+    text-align: center;
+}
+
+.mainPhoto {
+    width: 150px;
+    height: 170px;
+    border: 3px solid rgb(246, 174, 7);
+}
+
+h2 {
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+}
+.code {
+    background-color: rgb(212, 236, 236);
+    width: 200px;
+}
